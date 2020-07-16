@@ -11,4 +11,4 @@
 [GitHub](https://github.com/KnowledgeTimeline/TheoryOfRelativity/)
 [Get Started](/)
 
-![bg](imgs/bg-space-mod.jpg)
+![bg](imgs/space2.png)
