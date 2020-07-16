@@ -1,4 +1,4 @@
-<img src="imgs/atom.svg"  alt="logo" width=200 />
+<img src="imgs/physics.svg"  alt="logo" width=200 />
 
 # 相对论趣味简史 <small>1.0</small>
 
